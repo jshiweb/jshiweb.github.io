@@ -3,8 +3,10 @@ import React from "react";
 const Home = () => {
   return (
     <div className="Body">
-      <img src={logo} alt="logo" />
-      <p>Welcome to my first react website!</p>
+      <p>
+        <img src={logo} alt="logo" />
+        Welcome to my first react website!
+      </p>
     </div>
   );
 };

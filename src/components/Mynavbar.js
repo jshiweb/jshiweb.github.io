@@ -6,17 +6,18 @@ const Mynavbar = () => {
   return (
     <div className="Navbar">
       <ul>
-        <li>
+        <li className="textimage">
           <img className="icon" src={logo} alt="logo" />
+          <p>Jessica's Website</p>
         </li>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/contact">Contact</Link>
         </li>
         <li>
           <Link to="/about">About</Link>
         </li>
-        <li style={{ float: "right " }}>
-          <a>Broken Button</a>
+        <li>
+          <Link to="/">Home</Link>
         </li>
       </ul>
     </div>

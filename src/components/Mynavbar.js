@@ -1,14 +1,15 @@
 import React from "react";
-import { Navbar, Nav, Container } from "react-bootstrap";
+
 import { Link } from "react-router-dom";
-import logo from "./../logo.svg";
-const Mynavbar = () => {
+import logo from "../logo.svg";
+
+function Mynavbar() {
   return (
     <div className="Navbar">
       <ul>
         <li className="textimage">
           <img className="icon" src={logo} alt="logo" />
-          <p>Jessica's Website</p>
+          <p>Jessica&apos;s Website</p>
         </li>
         <li>
           <Link to="/contact">Contact</Link>
@@ -37,5 +38,5 @@ const Mynavbar = () => {
     //   </Container>
     // </Navbar>
   );
-};
+}
 export default Mynavbar;

@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import "./index.css";
-import App from "./App";
 import { HashRouter } from "react-router-dom";
+import App from "./App";
 // import { NavHashLink } from "react-router-hash-link";
 
 import reportWebVitals from "./reportWebVitals";

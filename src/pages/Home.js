@@ -1,6 +1,8 @@
-import logo from "./../logo.svg";
 import React from "react";
-const Home = () => {
+
+import logo from "../logo.svg";
+
+function Home() {
   return (
     <div className="Body">
       <p>
@@ -9,5 +11,6 @@ const Home = () => {
       </p>
     </div>
   );
-};
+}
+
 export default Home;

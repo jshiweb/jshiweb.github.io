@@ -1,5 +1,6 @@
 import React from "react";
-const About = () => {
+
+function About() {
   return (
     <div className="Body">
       <p>This is where I would put my about page...</p>
@@ -9,5 +10,5 @@ const About = () => {
       />
     </div>
   );
-};
+}
 export default About;

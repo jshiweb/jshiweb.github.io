@@ -8,11 +8,11 @@ import About from "./pages/About";
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename="/">
       <Mynavbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/#/about" element={<About />} />
+        <Route exact path="/" element={<Home />} />
+        <Route exact path="/about" element={<About />} />
       </Routes>
     </HashRouter>
   );

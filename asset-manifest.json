@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.765b1705.css",
-    "main.js": "./static/js/main.89914485.js",
-    "static/js/787.7aa415c1.chunk.js": "./static/js/787.7aa415c1.chunk.js",
-    "static/media/logo.svg": "./static/media/logo.65a4d3ec0d1ad94b42cecc934c02c1be.svg",
-    "index.html": "./index.html",
-    "main.765b1705.css.map": "./static/css/main.765b1705.css.map",
-    "main.89914485.js.map": "./static/js/main.89914485.js.map",
-    "787.7aa415c1.chunk.js.map": "./static/js/787.7aa415c1.chunk.js.map"
+    "main.css": "/jshiweb.github.io/static/css/main.765b1705.css",
+    "main.js": "/jshiweb.github.io/static/js/main.f671ec4e.js",
+    "static/js/787.7aa415c1.chunk.js": "/jshiweb.github.io/static/js/787.7aa415c1.chunk.js",
+    "static/media/logo.svg": "/jshiweb.github.io/static/media/logo.65a4d3ec0d1ad94b42cecc934c02c1be.svg",
+    "index.html": "/jshiweb.github.io/index.html",
+    "main.765b1705.css.map": "/jshiweb.github.io/static/css/main.765b1705.css.map",
+    "main.f671ec4e.js.map": "/jshiweb.github.io/static/js/main.f671ec4e.js.map",
+    "787.7aa415c1.chunk.js.map": "/jshiweb.github.io/static/js/787.7aa415c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.765b1705.css",
-    "static/js/main.89914485.js"
+    "static/js/main.f671ec4e.js"
   ]
 }

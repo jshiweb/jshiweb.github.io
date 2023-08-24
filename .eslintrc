@@ -19,5 +19,6 @@
     "babelOptions": {
       "presets": ["@babel/preset-react"]
     }
-  }
+  },
+  "eslint.workingDirectories": ["./back", "./front"]
 }

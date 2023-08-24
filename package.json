@@ -27,6 +27,10 @@
     "extends": [
       "react-app",
       "react-app/jest"
+    ],
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
     ]
   },
   "browserslist": {
@@ -52,6 +56,8 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
-    "eslint-plugin-react-hooks": "^4.3.0"
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "react-scripts": "5.0.0"
   }
 }
+
